@@ -1,0 +1,17 @@
+{
+  "name": "authoring-libraries-demo-project",
+  "version": "1.0.0",
+  "module": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
